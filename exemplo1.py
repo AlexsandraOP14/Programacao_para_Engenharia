@@ -10,4 +10,3 @@ for i in range (5):
 for i in range (5):
     print(traco * 50)
     print('Obrigada por fazer parte da minha vida: ',lista[i])
-    print(traco * 50)

@@ -1,5 +1,5 @@
 # O objetivo é pedir ao usuário 5 valores inteiros e inserir em uma lista
-# Aseguir mostre na tela os valores em ordem crescente e decrescente
+# A seguir mostre na tela os valores em ordem crescente e decrescente
 
 lista = []
 

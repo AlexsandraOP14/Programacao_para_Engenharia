@@ -10,3 +10,5 @@ print('A maior nota foi: ', max(lista))
 print('A menor nota foi: ', min(lista))
 lista.sort(reverse = False)
 print('A ordem crescente: ', lista)
+
+#ATUALIZEI 
